@@ -1,0 +1,8 @@
+{
+  "level": 3,
+  "filePrefix": "LogTar_",
+  "rollingConfig": {
+    "sizeThreshold": 1024000,
+    "timeThreshold": 86400
+  }
+}
