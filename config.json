@@ -1,8 +1,10 @@
 {
   "level": 3,
+  "logDirPath": "logs",
   "filePrefix": "LogTar_",
   "rollingConfig": {
     "sizeThreshold": 1024,
     "timeThreshold": 86400
-  }
+  },
+  "consoleOutput": false
 }
