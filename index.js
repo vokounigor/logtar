@@ -1,1 +1,1 @@
-export * from "./lib/logtar.js";
+export * from './lib/logtar.js';
